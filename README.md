@@ -1,5 +1,8 @@
 # Notification Composable
 
+![Screenshot from 2024-06-03 20-44-47](https://github.com/Siddhesh2377/Notification/assets/67579112/cdcc7b28-a075-4b10-b7a5-f39741fc845f)
+
+
 ## Description
 This is a Kotlin Jetpack Compose function to display notifications in your Android app. It creates a floating window with a customizable message and a close button.
 
